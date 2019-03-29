@@ -1,0 +1,3 @@
+this is the test file for python
+python is simple to learn
+it is interpreted lang it is great feauture of python
